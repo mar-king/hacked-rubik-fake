@@ -4,24 +4,27 @@ from time import sleep
 print("###################################")
 print("|                                 |")
 print("|                                 |")
-print("|    h a c k     r u b i k a      |")
+print("|    code filteri          ‌|")
 print("|                                 |")
 print("|                                 |")
 print("|---------------------------------|")
 print("|                                 |")
-print("|   Manufacturer : mar_king      |")
+print("|   Manufacturer : hitrex      |")
 print("|cr:                |")
-print("|             mar_kingam  |")
+print("|             hitrex  |")
 print("###################################")
 
 
-hack = input("TARGET  PHONE : ")
+hack = input("code filteri : ")
 
-l = ["hacking the rubika 18%...", "hacking the rubika 32%....", "hacking the rubika 58%.....", "hacking the rubika 76%......", "hacking the rubika 99%.......", " * hacking failed - Done! Crack the code  rubika target :* "]
+l = ["code the rubika 18%...", "code the rubika 32%....", 
+"code the rubika 58%.....", 
+"code the rubika 76%......", 
+"code the rubika 99%.......", " * code filteri rubika - Done! Crack the code  rubika code filter :* "]
 
 for i in l:
     print("\r" + i, end="")
     sleep(1.5)
 print()
 
-print("code : 6283" or "9473" or "9272" or "8590" )
+print("code filter: dilter⅛*o" or "cge/fil" or "¾⁷⅜filfil" or "filter/&⅝⁸" )
